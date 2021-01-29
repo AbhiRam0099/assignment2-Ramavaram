@@ -63,8 +63,8 @@ This article is about Hawaii .Hawaii  is a U.S. state located in the Pacific Oce
 
 [learn more](https://en.wikipedia.org/wiki/WebDNA)
 
-
-`<!--HAS_WEBDNA_TAGS-->
+```
+<!--HAS_WEBDNA_TAGS-->
 <html>
 
 [text]info=[tcpconnect host=whois.domaindiscover.com&port=43]
@@ -74,7 +74,8 @@ This article is about Hawaii .Hawaii  is a U.S. state located in the Pacific Oce
 [append db=base.db]domain=webdna.us&whois=[info]
 [/append]
 
-</html>`
+</html>
+```
 
 [Code Source](https://en.wikipedia.org/wiki/WebDNA)
 
