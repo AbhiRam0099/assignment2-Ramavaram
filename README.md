@@ -45,3 +45,12 @@ This article is about Hawaii .Hawaii  is a U.S. state located in the Pacific Oce
 | Maui | 2 days | 253$ |
 | O'ahu | 1 day | 150$ |
 |Island od Hawai'i| 2 days |200$|
+
+---
+
+#### Pithy Quotes
+
+> The greatest glory in living lies not in never falling, but in rising every time we fall *-Nelson Mandela*
+
+> Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking. *-Steve Jobs*
+
