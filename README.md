@@ -83,9 +83,10 @@ This article is about Hawaii .Hawaii  is a U.S. state located in the Pacific Oce
 
 ### Bonus section
 
+
 - ![Beach View](Images\sunrise.png)
 - ![Beach DroneShot](Images\landscape.png)
-- ![Cruise](Images\best-time-to-cruise-hawaii.png)
+- ![Cruise](https://github.com/AbhiRam0099/assignment2-Ramavaram/blob/main/Images/best-time-to-cruise-hawaii.png)
 
 
 
