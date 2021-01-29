@@ -30,5 +30,18 @@ My **mom** prepares food with **love** to feed her sons .I think love towards us
 
 -Complete your tasks with perfection and be happy.
 
-
 Wanna know more about me? [AboutMe](https://github.com/AbhiRam0099/assignment2-Ramavaram/blob/main/AboutMe.md)
+
+---
+
+#### Table section
+
+This article is about Hawaii .Hawaii  is a U.S. state located in the Pacific Ocean. It is the only state outside North America, the only island state, and the only state in the tropics. Hawaii is also one of a handful of U.S. states to have once been an independent nation.The most beautiful places one should vist ❤️
+
+
+| Location | StayTime | Budget |
+| - | - | - |
+| Honolulu | 1 day | 152$ |
+| Maui | 2 days | 253$ |
+| O'ahu | 1 day | 150$ |
+|Island od Hawai'i| 2 days |200$|
