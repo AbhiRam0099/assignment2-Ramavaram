@@ -31,4 +31,4 @@ My **mom** prepares food with **love** to feed her sons .I think love towards us
 -Complete your tasks with perfection and be happy.
 
 
-`[Wanna know more about me?](https://github.com/AbhiRam0099/assignment2-Ramavaram/blob/main/AboutMe.md)`
+`Wanna know more about me? [AboutMe](https://github.com/AbhiRam0099/assignment2-Ramavaram/blob/main/AboutMe.md)`
