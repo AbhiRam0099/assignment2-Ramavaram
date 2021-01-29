@@ -79,6 +79,15 @@ This article is about Hawaii .Hawaii  is a U.S. state located in the Pacific Oce
 
 [Code Source](https://en.wikipedia.org/wiki/WebDNA)
 
+---
+
+### Bonus section
+
+![Beach View](Images\630x355.jpg)
+![Beach DroneShot](Images\hawaii-in-pictures-beautiful-places-to-photograph-hanauma-bay-oahu.jpg)
+![Profile](Images\best-time-to-cruise-hawaii.webp)
+
+
 
 
 
