@@ -12,25 +12,32 @@ My **mom** prepares food with **love** to feed her sons .I think love towards us
 
 1.Warm up
 
--Do some moring exercise , that includes pushups, streches, crunches etc.;
+  - Do some moring exercise , that includes pushups, streches, crunches etc.;
 
 2.Attend classes
-
--Attend classes on daily basis according to the course shedule.
+   - Attend classes on daily basis according to the course shedule.
 
 3.Library/Assignments
 
--Complete assignmets before the due date.
+  - Complete assignmets before the due date.
 
 4.Recreation center
 
--Visit rec daily to shape your body and to keep your mind mentally strong.
+  - Visit rec daily to shape your body and to keep your mind mentally strong.
 
 5.Dinning job
 
--Complete your tasks with perfection and be happy.
+  -Complete your tasks with perfection and be happy.
 
-Wanna know more about me? [AboutMe](https://github.com/AbhiRam0099/assignment2-Ramavaram/blob/main/AboutMe.md)
+Wanna know more about me? [Click here](https://github.com/AbhiRam0099/assignment2-Ramavaram/blob/main/AboutMe.md)
+
+---
+#### Learnig routine
+
+- Pick a coding language
+- Deep dive into DS and Algo
+- Do some problem solving 
+- Write code and improvise the code 
 
 ---
 
