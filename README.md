@@ -53,6 +53,14 @@ This article is about Hawaii .Hawaii  is a U.S. state located in the Pacific Oce
 | O'ahu | 1 day | 150$ |
 |Island od Hawai'i| 2 days |200$|
 
+
+
+- ![Beach View](https://github.com/AbhiRam0099/assignment2-Ramavaram/blob/main/Images/sunrise.png)
+- ![Beach DroneShot](https://github.com/AbhiRam0099/assignment2-Ramavaram/blob/main/Images/landscape.png)
+- ![Cruise](https://github.com/AbhiRam0099/assignment2-Ramavaram/blob/main/Images/best-time-to-cruise-hawaii.png)
+
+
+
 ---
 
 #### Pithy Quotes
@@ -86,14 +94,9 @@ This article is about Hawaii .Hawaii  is a U.S. state located in the Pacific Oce
 
 [Code Source](https://en.wikipedia.org/wiki/WebDNA)
 
----
-
-### Bonus section
 
 
-- ![Beach View](https://github.com/AbhiRam0099/assignment2-Ramavaram/blob/main/Images/sunrise.png)
-- ![Beach DroneShot](https://github.com/AbhiRam0099/assignment2-Ramavaram/blob/main/Images/landscape.png)
-- ![Cruise](https://github.com/AbhiRam0099/assignment2-Ramavaram/blob/main/Images/best-time-to-cruise-hawaii.png)
+
 
 
 
